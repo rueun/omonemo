@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095020728582",
+    "project_id": "omonemo-5c8cb",
+    "storage_bucket": "omonemo-5c8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095020728582:android:444b9db5c612954754ce87",
+        "android_client_info": {
+          "package_name": "com.example.omonemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095020728582-3pikknpkgdqvd1qshshlkvfejvl7b5p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3NWils-HTrAFA3XXykMdwzf_XB3ArVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095020728582-3pikknpkgdqvd1qshshlkvfejvl7b5p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
